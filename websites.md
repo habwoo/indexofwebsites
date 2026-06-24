@@ -2,7 +2,7 @@
 alot of my favourite websites and stuff :3
 
 ## mmm piracy...
-https://rutracker.org / [2](https://rutracker.net) **VPN MAY BE REQUIRED** **Signup required!**
+https://rutracker.org / [2](https://rutracker.net) **VPN MAY BE REQUIRED** **Signup required!**  
 https://thepiratebay.org/ / [the other mirrors](https://github.com/bout2bus/thepiratebay-proxy-list) <-- May be unsafe, check otherwise!! **VPN MAY BE REQUIRED**  
 https://fmhy.net/ | https://old.fmhy.net/  
 https://rentry.co/FMHYB64 / [2](https://rentry.org/FMHYB64) ***BASE64 DECODER NEEDED!!*** --> https://www.base64decode.net/ https://greasyfork.org/en/scripts/485772  
