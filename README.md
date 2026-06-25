@@ -20,4 +20,4 @@ https://codec.kyiv.ua - for software, [go here](https://codec.kyiv.ua/releases.h
 [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)  
 ### Subject to change!!
 
-Last updated: 25/06/2026 @ 4:27am AEST
+Last updated: 25/06/2026 @ 2:31pm AEST
