@@ -12,6 +12,7 @@ https://archive.org/ <-- Use with caution, some software listed may contain malw
 https://everythingmoe.com/ anime.... oh yeah and this is like a go-to for chuds who like anime but cant pay for subscriptions, archive.org may also have anime of your choosing.  
 https://streamex.sh/movie  
 https://itorrents-igruha.org/  
+https://codec.kyiv.ua - for software, [go here](https://codec.kyiv.ua/releases.htm) **VPN MAY BE REQUIRED**  
 [Adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 ### Subject to change!!
 
