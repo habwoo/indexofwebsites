@@ -23,7 +23,7 @@ https://dl.malwarewatch.org
 ### Subject to change!!
 
 ## Oldschool
-https://retrosystemsrevival.blogspot.com -- Oldschool software stuff :D  
+https://retrosystemsrevival.blogspot.com  
 https://www.softwareheritage.org  
 http://www.oldversion.com/  
 https://commodore.software/search/  
