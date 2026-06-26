@@ -1,6 +1,9 @@
 # indexofwebsites
 alot of my favourite websites and stuff :3
 
+## NOTE!!!
+https://www.qbittorrent.org/ <-- Recommend bittorrent!! ***DO NOT GET UTORRENT***, [here's why!](https://www.youtube.com/watch?v=1-VEB4NLGMM).
+
 ## mmm piracy...
 https://rutracker.org / [2](https://rutracker.net) **VPN MAY BE REQUIRED** **Signup required!**  
 https://thepiratebay.org/ / [the other mirrors](https://github.com/bout2bus/thepiratebay-proxy-list) <-- May be unsafe, check otherwise!! **VPN MAY BE REQUIRED**  
@@ -13,12 +16,23 @@ https://everythingmoe.com/ anime.... oh yeah and this is like a go-to for chuds 
 https://streamex.sh/movie  
 https://itorrents-igruha.org/  
 https://codec.kyiv.ua - for software, [go here](https://codec.kyiv.ua/releases.htm) **VPN MAY BE REQUIRED**  
-https://1337x.to/ ***VPN MAY BE REQUIRED***  
+https://1337x.to/ / [2](https://x1337x.cc/) ***VPN MAY BE REQUIRED***  
+https://fitgirl-repacks.site  
+https://dl.malwarewatch.org  
 [Adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 ### Subject to change!!
 
+## Oldschool
+https://retrosystemsrevival.blogspot.com -- Oldschool software stuff :D  
+https://www.softwareheritage.org  
+http://www.oldversion.com/  
+https://commodore.software/search/  
+
 ## just my favourite in general
-[ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)
+[ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)  
+[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-GB) / [2](https://github.com/bogdan-patraucean/about/tree/main/wintoys)
+[Winaero Tweaker](https://winaerotweaker.com)  
+[aria2c.exe](https://github.com/aria2/aria2) <-- can be used for ytdlp-interface above
 ### Subject to change!!
 
-Last updated: 25/06/2026 @ 2:31pm AEST
+Last updated: 26/06/2026 @ 4:41pm AEST
