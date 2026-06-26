@@ -2,7 +2,7 @@
 alot of my favourite websites and stuff :3
 
 ## NOTE!!!
-https://www.qbittorrent.org/ <-- Recommend bittorrent!! ***DO NOT GET UTORRENT***, [here's why!](https://www.youtube.com/watch?v=1-VEB4NLGMM).
+https://www.qbittorrent.org/ <-- Recommend qbittorrent!! ***DO NOT GET UTORRENT***, [here's why!](https://www.youtube.com/watch?v=1-VEB4NLGMM).
 
 ## mmm piracy...
 https://rutracker.org / [2](https://rutracker.net) **VPN MAY BE REQUIRED** **Signup required!**  
