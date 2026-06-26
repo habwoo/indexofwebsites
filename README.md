@@ -30,7 +30,7 @@ https://commodore.software/search/
 
 ## just my favourite in general
 [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)  
-[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-GB) / [2](https://github.com/bogdan-patraucean/about/tree/main/wintoys)
+[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-GB) / [2](https://github.com/bogdan-patraucean/about/tree/main/wintoys)  
 [Winaero Tweaker](https://winaerotweaker.com)  
 [aria2c.exe](https://github.com/aria2/aria2) <-- can be used for ytdlp-interface above
 ### Subject to change!!
