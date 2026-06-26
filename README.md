@@ -18,7 +18,7 @@ https://1337x.to/ ***VPN MAY BE REQUIRED***
 ### Subject to change!!
 
 ## just my favourite in general
-[ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)  
+[ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)
 ### Subject to change!!
 
 Last updated: 25/06/2026 @ 2:31pm AEST
