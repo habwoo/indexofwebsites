@@ -28,6 +28,12 @@ https://www.softwareheritage.org
 http://www.oldversion.com/  
 https://commodore.software/search/  
 
+## module songs
+[PLEASE GET OPENMPT TO PLAY THE MODULES!!!](https://openmpt.org)  
+https://modarchive.org/  
+https://modules.pl/  
+https://msx.horse/cm.php  
+
 ## just my favourite in general
 [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)  
 [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-GB) / [2](https://github.com/bogdan-patraucean/about/tree/main/wintoys)  
