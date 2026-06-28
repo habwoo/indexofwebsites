@@ -38,7 +38,9 @@ https://msx.horse/cm.php
 [ytdlp-interface](https://github.com/ErrorFlynn/ytdlp-interface/releases)  
 [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-GB) / [2](https://github.com/bogdan-patraucean/about/tree/main/wintoys)  
 [Winaero Tweaker](https://winaerotweaker.com)  
-[aria2c.exe](https://github.com/aria2/aria2) <-- can be used for ytdlp-interface above
+[aria2c.exe](https://github.com/aria2/aria2) <-- can be used for ytdlp-interface above  
+[corrscope](https://github.com/corrscope/corrscope) REQUIRES FFMPEG, [DOWNLOAD HERE](https://www.gyan.dev/ffmpeg/builds/) - **NOTE: scroll until you see "git master builds", download "ffmpeg-git-essentials.7z"**!!!  
+
 ### Subject to change!!
 
 Last updated: 26/06/2026 @ 4:41pm AEST
