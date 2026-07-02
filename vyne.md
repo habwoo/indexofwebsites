@@ -1,7 +1,7 @@
 # Useful Links
 ### Guides
 https://hotkeycheatsheet.com/ — Hotkey Cheatsheet  
-https://links.bentovid.com/ — Repository of editing recourses  
+https://links.bentovid.com/ — Repository of editing recourses (DOWN AS OF 2/07/2026)  
 https://www.amv101.com/home — Detailed introduction and guides for AMV editing  
 ### Software
 https://github.com/l33tmeatwad/AMVtool — Fast and easy encoding software. The ideal choice for converting mkv to mp4  
