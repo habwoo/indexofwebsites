@@ -20,7 +20,6 @@ https://1337x.to/ / [2](https://x1337x.cc/) ***VPN MAY BE REQUIRED***
 https://fitgirl-repacks.site  
 https://dl.malwarewatch.org  
 [Adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
-### Subject to change!!
 
 ## Oldschool
 https://retrosystemsrevival.blogspot.com  
