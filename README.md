@@ -40,6 +40,9 @@ https://msx.horse/cm.php
 [aria2c.exe](https://github.com/aria2/aria2) <-- can be used for ytdlp-interface above  
 [corrscope](https://github.com/corrscope/corrscope) REQUIRES FFMPEG, [DOWNLOAD HERE](https://www.gyan.dev/ffmpeg/builds/) - **NOTE: scroll until you see "git master builds", download "ffmpeg-git-essentials.7z"**!!!  
 
+## USEFUL TOOLS
+coming soon gaiys trust
+
 ### Subject to change!!
 
 Last updated: 26/06/2026 @ 4:41pm AEST
