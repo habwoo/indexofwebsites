@@ -18,6 +18,9 @@ https://itorrents-igruha.org/
 https://codec.kyiv.ua - for software, [go here](https://codec.kyiv.ua/releases.htm) **VPN MAY BE REQUIRED**  
 https://1337x.to/ / [2](https://x1337x.cc/) ***VPN MAY BE REQUIRED***  
 https://fitgirl-repacks.site  
+https://animekai.fi/home  
+https://animetsu.live/ -- for games  
+https://mkissa.to/anime -- for games too  
 https://dl.malwarewatch.org  
 [Adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 
@@ -45,4 +48,4 @@ coming soon gaiys trust
 
 ### Subject to change!!
 
-Last updated: 26/06/2026 @ 4:41pm AEST
+Last updated: 14/08/2026 @ 10:28pm AEST
