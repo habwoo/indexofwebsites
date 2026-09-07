@@ -22,6 +22,7 @@ https://animekai.fi/home
 https://animetsu.live/ -- for games  
 https://mkissa.to/anime -- for games too  
 https://dl.malwarewatch.org  
+https://anikage.cc/ i forgot to add this whoops :p  
 [Adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 
 ## Oldschool
