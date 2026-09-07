@@ -49,4 +49,4 @@ coming soon gaiys trust
 
 ### Subject to change!!
 
-Last updated: 14/08/2026 @ 10:28pm AEST
+Last updated: 7/09/2026 @ 3:44pm AEST
